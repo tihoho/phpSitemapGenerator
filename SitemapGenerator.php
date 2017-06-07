@@ -5,7 +5,7 @@
 	*	@tihoho, Silent Labs, 2017.
 	*/
 
-	namespace Silentlabs;
+	namespace Silentlabs; 
 	
 	class SitemapGenerator {
 		
